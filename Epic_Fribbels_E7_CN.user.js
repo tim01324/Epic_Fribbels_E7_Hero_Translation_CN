@@ -94,7 +94,7 @@
     "Durandal": "杜蘭達爾",
     "Dust Devil": "沙塵惡魔",
     "Dux Noctis": "夜公爵",
-    "Elbris Ritual Sword": "艾爾布里斯的儀式劍",
+    "Elbris Ritual Sword": "埃布利斯的寶劍",
     "Elyha’s Knife": "艾莉哈的小刀",
     "Etica’s Scepter": "艾蒂卡的權杖",
     "Exorcist’s Tonfa": "驅魔師的雙節棍",
